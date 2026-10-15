@@ -1,0 +1,26 @@
+# Private context (personal training numbers)
+HANDOFF.md
+CLAUDE.md
+
+# Personal data: never public
+data/raw/
+data/exports/
+*.fit
+*.gpx
+*.tcx
+*.zip
+*.csv
+!data/sample/*.csv
+
+# Logins and tokens
+.env
+.garminconnect/
+*token*
+
+# Local database and Python
+*.duckdb
+*.duckdb.wal
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
