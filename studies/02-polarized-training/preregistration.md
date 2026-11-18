@@ -72,3 +72,26 @@ the hypothesis isn't supported.
 - Main conclusion: after spring warming (April–May 2027). In autumn, time
   and temperature change together, so the two are hard to separate until
   the weather warms up again.
+
+## Limitations
+
+- n = 1: this is one person, so the results may not apply to anyone else.
+- No control: there's no comparison period or group, so I can see whether
+  my easy pace improves but can't prove polarized training caused it.
+- Season: the study starts in autumn, so time and temperature move
+  together. The weather adjustment and the spring data are meant to
+  handle this, but they may not fully separate the two.
+- Device data: heart rate comes from the wrist sensor, which can drop out
+  or read low for the first few minutes. Pace comes from GPS, and weather
+  comes from a nearby station, not from where I ran.
+- Steered heart rate: I run easy runs to stay at or under 145 bpm on
+  average, so my easy heart rates are bunched just under the cap rather
+  than spread out naturally.
+- Timing: I wrote this after about 4 weeks of data collection, though
+  before any analysis.
+
+## Amendments
+
+- Nov 17, 2026: Added the Limitations section after the `prereg-02` tag.
+  Nothing else changed: the question, outcomes, run rules and analysis
+  plan are the same.
